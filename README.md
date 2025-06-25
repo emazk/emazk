@@ -48,6 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
